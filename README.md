@@ -1,2 +1,5 @@
 # hello-world
-intro classes
+
+Updating my initial file during the intro classes about Git
+
+Seems pretty straight-forward.
